@@ -1,4 +1,7 @@
 # iptables Workbench
+> [!IMPORTANT]
+> Currently project is in POC state and under construction. Not fit for use just yet.
+
 `iptables` rules modelling and rule simulation.
 
 # What?
