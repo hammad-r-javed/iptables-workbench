@@ -6,7 +6,6 @@ let
 in
 pkgs_main.mkShell {
   buildInputs = [
-    pkgs_main.nodejs_22
     pkgs_main.elmPackages.elm
   ];
 
